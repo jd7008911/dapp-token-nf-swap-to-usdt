@@ -1,6 +1,10 @@
 # ── Dependencies ─────────────────────────────────────
 node_modules
 
+# ── Environment / Secrets ────────────────────────────
+.env
+.env.*
+
 # ── Build output ─────────────────────────────────────
 dist
 dist-ssr
